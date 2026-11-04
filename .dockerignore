@@ -1,0 +1,21 @@
+# Ignore local virtual environments
+venv/
+.venv/
+env/
+ENV/
+*.pyc
+__pycache__/
+.pytest_cache/
+
+# Ignore Git files
+.git
+.gitignore
+
+# Ignore local configuration files and secrets
+.env
+.env.local
+
+# Ignore developer tools, scripts, and tests
+tests/
+scripts/
+*.log
