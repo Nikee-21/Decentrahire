@@ -133,3 +133,10 @@ python scripts/make_test_live.py
 ## 💡 Developer Guidelines
 * **Keeping it Modular**: When writing new business rules, add files inside the `modules/` directory. Keep `app.py` primarily focused on request routing.
 * **Static Assets**: Put styles inside `static/css/style.css` and JavaScript inside `static/js/app.js` to ensure the core glassmorphic theme is uniform.
+
+  Team Members :
+  Nikeeta Pande
+  Sanjana Nikam 
+  Kunal Paraskar 
+  Nehal Pande
+  Shridhar Panigrahi
